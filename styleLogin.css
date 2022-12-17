@@ -1,0 +1,28 @@
+    
+    @media screen and (min-width: 768px) { 
+        
+    }
+    @media screen and (min-width: 769px) {
+    
+    }
+    * {
+        background-color: #F5C06A;
+    }
+    
+    .col-lg-6 {
+        background-color: #F5C06A;
+    }
+    
+    
+    .gradient-custom-2 {
+        /* fallback for old browsers */
+        background: #d5d835;
+        
+        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        background: linear-gradient(to right, #F5C06A, #ebee3d, #ebee30, #F5C06A);
+    } 
+    
+    #form2Example11, #form2Example22 {
+        background-color: #F5C06A;
+        border-color: gray;
+    }
